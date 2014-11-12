@@ -10,8 +10,13 @@ This project was to take input from a google search and filter the results to an
 ### SQL Blog
 #### Alex Zilbersher, Sydney Caputo, Andrew Sikowitz, Andrew Lee
 #### Description
-This project was to create a website that was capable of recording blog posts that could be commented on using an SQL database
+This project was to create a website that was capable of recording blog posts that could be commented on using an SQL database.
 #### [SQL Blog Https Clone](https://github.com/Zilby/SQL-Blog.git)
+### API Integration
+#### Alex Zilbersher, Chris Wennendy
+#### Description
+This project was to create a webiste that implemented another website's api and pulled data from them for our own purposes.  
+#### [SQL Blog Https Clone](https://github.com/Zilby/API-Repo.git)
 ## Mini Projects
 * login  
   * Alex Zilbersher, Edison Shi
