@@ -16,7 +16,7 @@ This project was to create a website that was capable of recording blog posts th
 #### Alex Zilbersher, Chris Wennendy
 #### Description
 This project was to create a webiste that implemented another website's api and pulled data from them for our own purposes.  
-#### [SQL Blog Https Clone](https://github.com/Zilby/API-Repo.git)
+#### [API Https Clone](https://github.com/Zilby/API-Repo.git)
 ## Mini Projects
 * login  
   * Alex Zilbersher, Edison Shi
