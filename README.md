@@ -27,3 +27,6 @@ This project was to create a webiste that implemented another website's api and 
 * intro-proj 1
   * Alex Zilbersher, Harrison Chiu
   * 5/intro-proj1/zilbersher_chiu
+* todo
+  * Alex Zilbersher
+  * 5/todo/alex_zilbersher
