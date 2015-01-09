@@ -17,6 +17,11 @@ This project was to create a website that was capable of recording blog posts th
 #### Description
 This project was to create a webiste that implemented another website's api and pulled data from them for our own purposes.  
 #### [API Https Clone](https://github.com/Zilby/API-Repo.git)
+### Final Project
+#### Alex Zilbersher, Abrar Ahmed, Andrew Sikowitz
+#### Description
+Our project is to make a website capable or sorting people's schedules and classes so that they can see other people with the same classes as them and info about their teacher prior to the first day of school
+#### [Final Project Https Clone](https://github.com/abrarahmed56/StuyApp.git)
 ## Mini Projects
 * login  
   * Alex Zilbersher, Edison Shi
