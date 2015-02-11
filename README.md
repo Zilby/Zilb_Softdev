@@ -38,6 +38,11 @@ Our project is to make a website capable or sorting people's schedules and class
 * invisiblethluffy
   * Alex Zilbersher, Edison Shi
   * 5/invisiblethluffy/alex_edison
+
+# Spring Semester
+Period 6
+## Main Projects
+## Mini Projects
 * canvas
   * Alex Zilbersher, Adam Dehovitz
   * 6/canvas/alex_adam
